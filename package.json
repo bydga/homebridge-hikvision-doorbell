@@ -1,16 +1,16 @@
 {
   "private": true,
-  "displayName": "Plugin Name",
-  "name": "homebridge-plugin-name",
+  "displayName": "Homebridge Hikvision Doorbell",
+  "name": "@bydga/homebridge-hikvision-doorbell",
   "version": "1.0.0",
-  "description": "A short description about what your plugin does.",
+  "description": "Exposes Doorbell Lock to Homekit",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
+    "url": "git://github.com/bydga/homebridge-hikvision-doorbell.git"
   },
   "bugs": {
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME/issues"
+    "url": "https://github.com/bydga/homebridge-hikvision-doorbell/issues"
   },
   "engines": {
     "node": ">=14.18.1",
